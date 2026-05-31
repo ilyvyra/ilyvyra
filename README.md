@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Ai Dev
+Designer & Fullstack Ai Dev
 
 
 ## 🌐 Socials:
